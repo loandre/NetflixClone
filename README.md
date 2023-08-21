@@ -4,7 +4,7 @@
 
 ![Página Inicial da Netflix](./imagens/netflix-clone.png.png)
 
-**Descrição do Projeto:** Este é o meu projeto do curso de Full Stack na Digital College, onde reproduzi um clone da página inicial da Netflix usando apenas HTML e CSS. Esta atividade teve o objetivo de aprimorar minhas habilidades de front-end e me familiarizar com o desenvolvimento web.
+**Descrição do Projeto:** Este é o meu primeiro projeto do curso de Full Stack na Digital College, onde reproduzi um clone da página inicial da Netflix usando apenas HTML e CSS. Esta atividade teve o objetivo de aprimorar minhas habilidades de front-end e me familiarizar com o desenvolvimento web.
 
 ## Tecnologias Utilizadas
 
